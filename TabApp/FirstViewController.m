@@ -26,4 +26,15 @@
 }
 
 
+- (IBAction)Jump2:(id)sender {
+    [(UITabBarController *)self.tabBarController setSelectedIndex:1];
+}
+
+- (IBAction)Jump3:(id)sender {
+        [(UITabBarController *)self.tabBarController setSelectedIndex:2];
+}
+
+- (IBAction)Jump4:(id)sender {
+        [(UITabBarController *)self.tabBarController setSelectedIndex:3];
+}
 @end

@@ -9,7 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface FirstViewController : UIViewController
-
+- (IBAction)Jump2:(id)sender;
+- (IBAction)Jump3:(id)sender;
+- (IBAction)Jump4:(id)sender;
 
 @end
 

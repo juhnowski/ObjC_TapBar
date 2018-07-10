@@ -14,6 +14,7 @@
 		09B291CB20F432CD00C75D59 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09B291CA20F432CD00C75D59 /* Assets.xcassets */; };
 		09B291CE20F432CD00C75D59 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09B291CC20F432CD00C75D59 /* LaunchScreen.storyboard */; };
 		09B291D120F432CD00C75D59 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 09B291D020F432CD00C75D59 /* main.m */; };
+		09B3944420F4F48200C5863B /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 09B3944320F4F48200C5863B /* ThirdViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		09B291CD20F432CD00C75D59 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		09B291CF20F432CD00C75D59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		09B291D020F432CD00C75D59 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		09B3944220F4F48200C5863B /* ThirdViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		09B3944320F4F48200C5863B /* ThirdViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +71,8 @@
 				09B291C420F432CD00C75D59 /* SecondViewController.h */,
 				09B291C520F432CD00C75D59 /* SecondViewController.m */,
 				09B291C720F432CD00C75D59 /* Main.storyboard */,
+				09B3944220F4F48200C5863B /* ThirdViewController.h */,
+				09B3944320F4F48200C5863B /* ThirdViewController.m */,
 				09B291CA20F432CD00C75D59 /* Assets.xcassets */,
 				09B291CC20F432CD00C75D59 /* LaunchScreen.storyboard */,
 				09B291CF20F432CD00C75D59 /* Info.plist */,
@@ -147,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				09B291C620F432CD00C75D59 /* SecondViewController.m in Sources */,
+				09B3944420F4F48200C5863B /* ThirdViewController.m in Sources */,
 				09B291C020F432CD00C75D59 /* AppDelegate.m in Sources */,
 				09B291D120F432CD00C75D59 /* main.m in Sources */,
 				09B291C320F432CD00C75D59 /* FirstViewController.m in Sources */,
